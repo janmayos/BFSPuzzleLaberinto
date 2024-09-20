@@ -1,5 +1,5 @@
-Laboratorio 2: Búsqueda no informada P1
-Vence el 20 de septiembre de 2024 23:59
+Laboratorio 3: Búsqueda no informada P2
+Vence el 29 de septiembre de 2024 23:59
 Instrucciones
 Parte 1.
 Elabora una biblioteca que implemente las siguientes estructuras:
